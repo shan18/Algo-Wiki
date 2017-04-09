@@ -10,8 +10,12 @@ Divide and Conquer
 
 [x] Merge Sort in python
 [x] Karatsuba multiplication in python
+
 [x] Quick Sort with Random Pivot in python
 [x] Quick Sort with Median Pivot in python
+[x] Quick Sort with First Element Pivot
+[x] Quick Sort with Last Element Pivot
+
 [x] Max subarray in python
 
 
