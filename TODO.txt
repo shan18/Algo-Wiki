@@ -1,0 +1,16 @@
+==================
+Divide and Conquer
+==================
+
+[x] Merge Sort in python
+[x] Karatsuba multiplication in python
+[ ] Closest pair distance
+[ ] QuickSort in python
+[ ] Max subarray
+
+
+===================
+Dynamic Programming
+===================
+[ ] Matrix Chain Multiplication
+[ ] Longest Common Subsequence
