@@ -1,3 +1,9 @@
+===========
+Brute Force
+===========
+[x] Maximum Subarray in c++
+
+
 ==================
 Divide and Conquer
 ==================
@@ -6,7 +12,7 @@ Divide and Conquer
 [x] Karatsuba multiplication in python
 [ ] Closest pair distance
 [ ] QuickSort in python
-[ ] Max subarray
+[x] Max subarray in python
 
 
 ===================
