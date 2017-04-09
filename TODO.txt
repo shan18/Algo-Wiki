@@ -19,4 +19,4 @@ Divide and Conquer
 Dynamic Programming
 ===================
 [ ] Matrix Chain Multiplication
-[ ] Longest Common Subsequence
+[x] Longest Common Subsequence in c++
