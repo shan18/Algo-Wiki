@@ -10,8 +10,7 @@ Divide and Conquer
 
 [x] Merge Sort in python
 [x] Karatsuba multiplication in python
-[ ] Closest pair distance
-[ ] QuickSort in python
+[x] Quick Sort with Random Pivot in python
 [x] Max subarray in python
 
 
