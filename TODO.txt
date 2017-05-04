@@ -1,32 +1,34 @@
 ===========
 Brute Force
 ===========
-[x] Maximum Subarray in c++
+[x] Maximum Subarray [c++]
 
 
 ==================
 Divide and Conquer
 ==================
 
-[x] Karatsuba multiplication in python
+[x] Karatsuba multiplication [python]
 
-[x] Max subarray in python
+[x] Max subarray [python]
 
 
 =======
 Sorting
 =======
 
-[x] Merge Sort in python
+[x] Merge Sort [python]
 
-[x] Quick Sort with Random Pivot in python
-[x] Quick Sort with Median Pivot in python
-[x] Quick Sort with First Element Pivot
-[x] Quick Sort with Last Element Pivot
+[x] Quick Sort with Random Pivot [python]
+[x] Quick Sort with Median Pivot [python]
+[x] Quick Sort with First Element Pivot [python]
+[x] Quick Sort with Last Element Pivot [python]
+
+[x] Heapsort in [c++]
 
 
 ===================
 Dynamic Programming
 ===================
-[x] Matrix Chain Multiplication in c++
-[x] Longest Common Subsequence in c++
+[x] Matrix Chain Multiplication [c++]
+[x] Longest Common Subsequence [c++]
