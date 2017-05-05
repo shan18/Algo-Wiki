@@ -30,5 +30,13 @@ Sorting
 ===================
 Dynamic Programming
 ===================
+
 [x] Matrix Chain Multiplication [c++]
 [x] Longest Common Subsequence [c++]
+
+
+===============
+Data Structures
+===============
+
+[x] Priority Queue [c++]

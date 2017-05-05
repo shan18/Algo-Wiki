@@ -1,3 +1,8 @@
+/* The following code performs heapsort in c++
+ * It uses max heap.
+*/
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -18,9 +23,9 @@ void max_heapify(int i) {
 	int r = right(i);
 	int largest = i;
 
-	if (l <= heap_size && a[l] > a[i])
+	if (l < heap_size && a[l] > a[i])
 		largest = l;
-	if (r <= heap_size && a[r] > a[largest])
+	if (r < heap_size && a[r] > a[largest])
 		largest = r;
 
 	if (largest != i) {
@@ -30,7 +35,7 @@ void max_heapify(int i) {
 }
 
 void build_max_heap() {
-	heap_size = a.size() - 1;
+	heap_size = a.size();
 	for(int i = (a.size()-2)/2; i >= 0; i--) {
 		max_heapify(i);
 	}
