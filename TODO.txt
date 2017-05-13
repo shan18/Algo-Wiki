@@ -39,4 +39,5 @@ Dynamic Programming
 Data Structures
 ===============
 
-[x] Priority Queue [c++]
+[x] Maximum Priority Queue [c++]
+[x] Minimum Priority Queue [c++]
