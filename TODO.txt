@@ -17,6 +17,7 @@ Sorting
 =======
 
 [x] Bubble Sort [c++]
+[x] Selection Sort
 [x] Insertion Sort [c++]
 [x] Merge Sort [python]
 [x] Quick Sort with Random Pivot [python]
