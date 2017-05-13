@@ -9,7 +9,6 @@ Divide and Conquer
 ==================
 
 [x] Karatsuba multiplication [python]
-
 [x] Max subarray [python]
 
 
@@ -17,13 +16,10 @@ Divide and Conquer
 Sorting
 =======
 
+[x] Bubble Sort [c++]
 [x] Merge Sort [python]
-
 [x] Quick Sort with Random Pivot [python]
 [x] Quick Sort with Median Pivot [python]
-[x] Quick Sort with First Element Pivot [python]
-[x] Quick Sort with Last Element Pivot [python]
-
 [x] Heapsort in [c++]
 
 
