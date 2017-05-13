@@ -49,3 +49,8 @@ Tree
 [x] Trie [c++] [python]
 
 
+=========
+Searching
+=========
+
+[x] Binary Search [c++]
