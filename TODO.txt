@@ -41,3 +41,11 @@ Data Structures
 
 [x] Maximum Priority Queue [c++]
 [x] Minimum Priority Queue [c++]
+
+----
+Tree
+----
+
+[x] Trie [c++] [python]
+
+
