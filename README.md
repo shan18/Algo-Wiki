@@ -45,6 +45,11 @@ It currently contains the following algorithms:
 - [Trie](https://github.com/shan18/Algo-Wiki/tree/master/Data%20Structures/Tree) [c++ & python]
 
 
+##### Graph Theory
+
+- [Dijkstra's Algorithm](/Graph%20Theory/dijkstra.cpp)
+
+
 ##### Searching
 
 - [Binary Search](https://github.com/shan18/Algo-Wiki/blob/master/Searching/Binary%20Search.cpp) [c++]
