@@ -29,7 +29,7 @@ class LinkedList():
         new_node = Node(data)
         if self.head is not None:
             node = self.head
-            while node.next_node != null:
+            while node.next_node != None:
                 node = node.next_node
             node.next_node = new_node
         else:
