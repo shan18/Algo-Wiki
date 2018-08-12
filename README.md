@@ -5,44 +5,46 @@ This repository contains the code for all the algorithms which I have used so fa
 It currently contains the following algorithms:
 ------------------------------------------------------------
 
-- [Prime Factorization](/Prime%20Factorization.cpp) [c++]
-- [Sieve of Eratosthenes](/Sieve%20of%20Eratosthenes.cpp) [c++]
-- [Longest Increasing Subsequence](/Longest%20Increasing%20Subsequence.cpp) [c++]
+- [Prime Factorization](/prime_factorization.cpp) [c++]
+- [Sieve of Eratosthenes](/sieve_of_eratosthenes.cpp) [c++]
+- [Longest Increasing Subsequence](/longest_increasing_subsequence.cpp) [c++]
 
 
 ##### Divide and Conquer
 
-- [Karatsuba multiplication](/Divide%20and%20Conquer/Karatsuba%20Multiplication.py) [python]
-- [Max subarray](/Divide%20and%20Conquer/Maximum%20Subarray.py) [python]
+- [Karatsuba multiplication](/Divide%20and%20Conquer/karatsuba_multiplication.py) [python]
+- [Max subarray](/Divide%20and%20Conquer/maximum_subarray.py) [python]
 
 
 ##### Sorting
 
-- [Bubble Sort](/Sorting/Bubble%20Sort.cpp) [c++]
-- [Selection Sort](/Sorting/Selection%20Sort.cpp) [c++]
-- [Insertion Sort](/Sorting/Insertion%20Sort.cpp) [c++]
-- [Merge Sort](/Sorting/Merge%20Sort.py) [python]
-- [Quick Sort with Random Pivot](/Sorting/Quick%20Sort%20with%20Random%20Pivot.py) [python]
-- [Quick Sort with Median Pivot](/Sorting/Quick%20Sort%20with%20Median%20Pivot.py) [python]
-- [Heapsort](/Sorting/Heapsort.cpp) [c++]
+- [Bubble Sort](/Sorting/bubble_sort.cpp) [c++]
+- [Selection Sort](/Sorting/selection_sort.cpp) [c++]
+- [Insertion Sort](/Sorting/insertion_sort.cpp) [c++]
+- [Merge Sort](/Sorting/merge_sort.py) [python]
+- [Quick Sort with Random Pivot](/Sorting/quick_sort_with_random_pivot.py) [python]
+- [Quick Sort with Median Pivot](/Sorting/quick_sort_with_median_pivot.py) [python]
+- [Heapsort](/Sorting/heapsort.cpp) [c++]
 
 
 ##### Dynamic Programming
 
-- [Matrix Chain Multiplication](/Dynamic%20Programming/Matrix%20Chain%20Multiplication.cpp) [c++]
-- [Longest Common Subsequence](/Dynamic%20Programming/Longest%20Common%20Subsequence.cpp) [c++]
+- [Matrix Chain Multiplication](/Dynamic%20Programming/matrix_chain_multiplication.cpp) [c++]
+- [Longest Common Subsequence](/Dynamic%20Programming/longest_common_subsequence.cpp) [c++]
 - [Rod Cutting Problem](/Dynamic%20Programming/rod_cutting.cpp) [c++]
 
 
 ##### Data Structures
 
-- [Maximum Priority Queue](/Data%20Structures/Maximum%20Priority%20Queue.cpp) [c++]
-- [Minimum Priority Queue](/Data%20Structures/Minimum%20Priority%20Queue.cpp) [c++]
+- [Maximum Priority Queue](/Data%20Structures/maximum_priority_queue.cpp) [c++]
+- [Minimum Priority Queue](/Data%20Structures/minimum_priority_queue.cpp) [c++]
+- [Linked List](/Data%20Structures/linked_list.py) [python]
+- [Stack](/Data%20Structures/stack.cpp) [c++]
 
 
 ##### Tree
 
-- [Trie](/Data%20Structures/Tree) [c++ & python]
+- [Trie](/Data%20Structures/trie/) [c++ & python]
 
 
 ##### Graph Theory
@@ -52,4 +54,4 @@ It currently contains the following algorithms:
 
 ##### Searching
 
-- [Binary Search](/Searching/Binary%20Search.cpp) [c++]
+- [Binary Search](/Searching/binary_search.cpp) [c++]
