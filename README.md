@@ -40,6 +40,7 @@ It currently contains the following algorithms:
 - [Minimum Priority Queue](/Data%20Structures/minimum_priority_queue.cpp) [c++]
 - [Linked List](/Data%20Structures/linked_list.py) [python]
 - [Stack](/Data%20Structures/stack.cpp) [c++]
+- [Queue](/Data%20Structures/queue.cpp) [c++]
 
 
 ##### Tree
