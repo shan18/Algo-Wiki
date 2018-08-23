@@ -65,6 +65,40 @@ struct Node* insert(struct Node *node, int key) {
     return node;
 }
 
+/* Find the node with the smallest value */
+struct Node *min_val_node(struct Node *node) {
+    struct Node *temp = node;
+    while(node->left != NULL)
+        node = node->left;
+    return node;
+}
+
+/* Delete a node from BST */
+struct Node *delete_node(struct Node *root, int key) {
+    if(root == NULL)
+        return root;
+    
+    if(key < root->data)
+        root->left = delete_node(root->left, key);
+    else if(key > root->data)
+        root->right = delete_node(root->right, key);
+    else {
+        if(root->left == NULL) {
+            struct Node *temp = root->right;
+            free(root);
+            return temp;
+        } else if(root -> right == NULL) {
+            struct Node *temp = root->left;
+            free(root);
+            return temp;
+        }
+        
+        struct Node *temp = min_val_node(root->right);
+        root->data = temp->data;
+        return delete_node(root->right, temp->data);
+    }
+}
+
 int main() {
     int nodes[] = {1, 12, 3, 4, 5, 8, 10};
     int size = sizeof(nodes) / sizeof(nodes[0]);
@@ -88,4 +122,10 @@ int main() {
         cout << "DNE" << endl;
     else
         cout << "Found" << endl;
+    
+    int d_key = 2;
+    delete_node(root, d_key);
+    cout << "Inorder Traversal after deleting " << d_key << ": ";
+    inorder_traversal(root);
+    cout << endl;
 }
