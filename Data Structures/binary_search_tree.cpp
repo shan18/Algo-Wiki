@@ -1,3 +1,11 @@
+/* The following code uses C++ to implement an binary search tree along with the following operations:
+ * 1. Inorder Traversal
+ * 2. Searching
+ * 3. Insertion
+ * 4. Deletion
+*/
+
+
 #include <bits/stdc++.h>
 using namespace std;
 

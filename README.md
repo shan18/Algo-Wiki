@@ -58,3 +58,5 @@ It currently contains the following algorithms:
 ##### Searching
 
 - [Binary Search](/Searching/binary_search.cpp) [c++]
+- [Breadth First Search](/Searching/breadth_first_search.py) [python]
+- [Depth First Search](/Searching/depth_first_search.py) [python]
