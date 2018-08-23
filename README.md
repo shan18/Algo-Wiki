@@ -46,6 +46,8 @@ It currently contains the following algorithms:
 ##### Tree
 
 - [Trie](/Data%20Structures/trie/) [c++ & python]
+- [Binary Tree](/Data%20Structures/binary_tree.cpp) [c++]
+- [Binary Search Tree](/Data%20Structures/binary_search_tree.cpp) [c++]
 
 
 ##### Graph Theory
