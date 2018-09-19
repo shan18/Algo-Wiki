@@ -32,6 +32,7 @@ It currently contains the following algorithms:
 - [Matrix Chain Multiplication](/Dynamic%20Programming/matrix_chain_multiplication.cpp) [c++]
 - [Longest Common Subsequence](/Dynamic%20Programming/longest_common_subsequence.cpp) [c++]
 - [Rod Cutting Problem](/Dynamic%20Programming/rod_cutting.cpp) [c++]
+- [Kadane's Algorithm](/Dynamic%20Programming/kadane_algorithm.cpp)
 
 
 ##### Data Structures
