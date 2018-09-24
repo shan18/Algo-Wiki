@@ -34,6 +34,7 @@ It currently contains the following algorithms:
 - [Rod Cutting Problem](/Dynamic%20Programming/rod_cutting.cpp) [c++]
 - [Kadane's Algorithm](/Dynamic%20Programming/kadane_algorithm.cpp) [c++]
 - [0_1 Knapsack Problem - Top Down Recursive Approach](/Dynamic%20Programming/0_1_knapsack_problem_top_down.py) [python]
+- [Minimum Cost Path](/Dynamic%20Programming/minimum_cost_path_in_matrix.cpp) [c++]
 
 
 ##### Data Structures
